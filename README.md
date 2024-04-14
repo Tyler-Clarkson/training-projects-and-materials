@@ -1,5 +1,5 @@
 # training-projects-and-materials
-Collection of projects developed during the course of learning skills/technologies
+Collection of projects developed during the course of learning/practicing skills/technologies
 
 ## Folder naming legend
 ps = pluralsight
